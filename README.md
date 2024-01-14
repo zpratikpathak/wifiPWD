@@ -35,15 +35,15 @@ pip install poetry
 Use command
 
 ```
-python wifiPWD.py
+python main.py
 ```
 
 or
 
 ```
-python3 wifiPWD.py
+python3 main.py
 ```
 
 or
 
-Double Click on `wifiPWD.py`
+Double Click on `main.py`
