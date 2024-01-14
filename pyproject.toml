@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "wifipwd"
+version = "0.1.0"
+description = ""
+authors = ["Pratik Pathak <pratikpathak200@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pyinquirer = "^1.0.3"
+black = "^23.12.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.12.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
