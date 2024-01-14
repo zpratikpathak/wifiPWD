@@ -6,7 +6,7 @@ authors = ["Pratik Pathak <pratikpathak200@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ">=3.8,<3.10"
 pyinquirer = "^1.0.3"
 black = "^23.12.1"
 
