@@ -1,6 +1,11 @@
-A Tool to check your saved Wifi Password. Tool is developed using Python and PyInquirer. Tool automatically checks required softwares in order to run, if not found it suggest to download it.
+A Tool to check your saved Wi-Fi password. The tool is developed using Python and PyInquirer. The tool automatically checks the required software to run, if it is not found it suggests downloading it.
 
 ![working of wifiPWD](wifiPWD.gif)
+
+Learn How to Use Poetry [https://pratikpathak.com/python-poetry-example/
+](https://pratikpathak.com/python-poetry-example/)
+Learn all about the project from here [WifiPWD Full Tutorial](https://pratikpathak.com/python-poetry-example/)
+
 
 ## Requirements
 - Windows 
@@ -9,10 +14,10 @@ A Tool to check your saved Wifi Password. Tool is developed using Python and PyI
 ## Features
 - One Script Tool
 - Prerequisite Checker
-- Intereactive Commandline Menu
+- Interactive Commandline Menu
 
 ## Installation
-Install the required packages using command 👇
+Install the required packages using the command 👇
 
 ```
 pip install -r requirements.txt
@@ -25,7 +30,7 @@ Install via Poetry 👇
 poetry install
 ```
 
-Did you ran into error ? Install Poetry using
+Did you run into an error? Install Poetry using
 ```
 pip install poetry
 ```
