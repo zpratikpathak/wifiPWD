@@ -8,10 +8,10 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.8,<3.10"
 pyinquirer = "^1.0.3"
-black = "^23.12.1"
+black = "^24.3.0"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.12.1"
+black = "^24.3.0"
 
 [build-system]
 requires = ["poetry-core"]
